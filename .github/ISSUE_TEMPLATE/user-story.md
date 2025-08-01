@@ -1,0 +1,19 @@
+---
+name: User Story
+about: This template is for creating user stories.
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+### User Story
+As a ...
+I need ...
+So that ...
+
+### Acceptance Criteria
+- [ ]
+- [ ]
+
+### Story Points
